@@ -8,8 +8,9 @@ Welcome to my local voice assistant project! This is a hands-on, fully local voi
 - **Modular pipeline** — Swap models, add tools, customize everything
 - **Modern web client** — React + Next.js, based on [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit)
 
+
 ## File Tree
-.
+```.
 ├── assets/
 ├── client/
 │   ├── .gitignore
@@ -33,7 +34,7 @@ Welcome to my local voice assistant project! This is a hands-on, fully local voi
 │   └── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## Models Used
 - Silero VAD
 - smart-turn v2
@@ -64,4 +65,4 @@ npm install
 npm run dev
 # Open the URL shown in your terminal
 
-# Feel free to fork, hack, and make this project your own. If you have questions or ideas, open an issue or reach out! 
+Feel free to fork, hack, and make this project your own. If you have questions or ideas, open an issue or reach out! 
